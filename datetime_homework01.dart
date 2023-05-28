@@ -1,3 +1,4 @@
-//Task 1:
-//Write a Python program that displays the current date and time.
-void main() {}
+import datetime
+date=datetime.date.today()
+ 
+print(date)
